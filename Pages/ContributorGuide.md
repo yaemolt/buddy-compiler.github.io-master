@@ -178,17 +178,17 @@ We welcome relevant and descriptive issues/feature requests for this project. De
 
 ### Git Configuration Issues
 
-If you encounter issues with Git configuration, please refer to the [Git Configuration Help Document](https://example.com/git-config-help).
+If you encounter issues with Git configuration, please refer to the [Git Configuration Help Document](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/about-your-personal-dashboard).
 
 ### Common Problems
 
 - **Pull Request Not Reviewed**: If your Pull Request has not been reviewed in a few days, feel free to leave a polite comment to remind the maintainers.
-- **Authentication Errors**: Ensure that your Git credentials are correctly set up. You can follow this [GitHub Authentication Guide](https://example.com/github-auth-guide) for more help.
+- **Authentication Errors**: Ensure that your Git credentials are correctly set up. You can follow this [GitHub Authentication Guide](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github) for more help.
 
 ### More Resources
 
-- [GitHub Beginner's Guide](https://example.com/github-guide)
-- [Markdown Basics](https://example.com/markdown-intro)
+- [GitHub Beginner's Guide](https://docs.github.com/en/get-started)
+- [Markdown Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Additional Information for Beginners
 
@@ -203,7 +203,6 @@ If you encounter issues with Git configuration, please refer to the [Git Configu
 If you are not familiar with the steps provided above, here is a more detailed guide with additional resources:
 
 1. **Forking the Repository**: Forking allows you to create a copy of the project under your GitHub account. This way, you can work on it without impacting the original repository.
-   - [GitHub Guide to Forking](https://example.com/github-fork-guide)
 
 2. **Cloning Your Fork**: Cloning brings the repository to your local machine, so you can work on it directly from your computer.
    - Example command:
