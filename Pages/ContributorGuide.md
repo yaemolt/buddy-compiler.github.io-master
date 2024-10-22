@@ -229,8 +229,7 @@ If you are not familiar with the steps provided above, here is a more detailed g
    ```
 
 6. **Creating a Pull Request**: A Pull Request allows maintainers to review your changes. Describe your changes clearly and explain why they are beneficial.
-   - [How to Create a Pull Request](https://example.com/github-pull-request-guide)
-
+   
 ### Helpful Tips for Beginners
 
 - **Stay Updated**: Always keep your fork in sync with the original repository by pulling the latest changes.
